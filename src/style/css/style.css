@@ -1,0 +1,69 @@
+header {
+  background-color: yellow;
+  padding: 20px;
+}
+
+h1 {
+  margin: 0;
+  text-align: center;
+}
+
+.article {
+  border: solid black 3px;
+  border-radius: 10px;
+  margin: 20px;
+  height: 450px;
+}
+
+img {
+  border: solid 3px grey;
+  margin: 20px 20px 0 20px;
+}
+
+.article button {
+  background-color: green;
+  color: white;
+  margin: 0 auto;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  display: block;
+}
+
+
+.article-info {
+  padding-left: 20px;
+  height: 160px;
+  display: flex;
+  justify-content: space-around;
+  flex-direction: column;
+}
+
+.article p {
+  margin: 0;
+}
+
+.cartArticle {
+  display: flex;
+  margin: 10px;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background-color: burlywood;
+}
+
+.article-container {
+  display: flex;
+  justify-content: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+
